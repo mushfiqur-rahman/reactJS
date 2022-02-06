@@ -1,0 +1,25 @@
+.container{
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+li{
+    list-style: none;
+}
+
+button{
+    background-color: #1537e3;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-variant-caps: all-petite-caps;
+}
